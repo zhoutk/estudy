@@ -1,0 +1,21 @@
+{
+  "name": "estudy",
+  "version": "1.0.0",
+  "description": "english study by scratching words and dictation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "english",
+    "scratch",
+    "words",
+    "dictation"
+  ],
+  "author": "zhoutk@189.cn",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^6.0.8"
+  }
+}
